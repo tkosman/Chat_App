@@ -1,3 +1,3 @@
 Swift Firebase Chat App
 
-Built with https://www.letsbuildthatapp.com tutorial. Not finished yet.
+Built using the comprehensive tutorial from https://www.letsbuildthatapp.com, but still a work in progress.
